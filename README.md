@@ -1,3 +1,3 @@
 # Resume
 
-![image alt](https://github.com/yashrajpowar/Resume/blob/7c641333296e79e61068ad4786e3b9afe9f01bef/Yashraj_in_page-0001.jpg)
+![image alt](https://github.com/yashrajpowar/Resume/blob/3f0c3224ab24827362393a5c899273e80861d5b1/Yashraj_in_page-0001.jpg)
